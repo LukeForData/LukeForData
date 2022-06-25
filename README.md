@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luke
 - 👀 I’m interested in going full-time into Data Analytics
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ { }
 - 📫 How to reach me -> LukeHaakenson1@gmail.com
 
 <!---
